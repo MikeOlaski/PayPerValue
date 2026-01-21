@@ -1,0 +1,8 @@
+{
+  "name": "PayPerValue",
+  "description": "An outcome-based payment platform that calculates the fair economic value of services and AI agents using advanced valuation frameworks.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
